@@ -9,3 +9,6 @@ Cara penggunaan :
 1. copy folder phpmvc kedalam htdocs
 2. import phpmvc.sql dalam database MySQL
 3. buka localhost/phpmvc/public
+
+Referensi : 
+https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx
