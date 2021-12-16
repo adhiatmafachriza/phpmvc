@@ -1,6 +1,6 @@
 # phpmvc
 
-Tugas Pemrograman Framework Kelompok 13
+Tugas Pemrograman Framework Kelompok 9
 1. Muhammad Naufal Ammar Rizki - 18051204049
 2. Hafidz Jayanegara Guyen - 18051204055
 3. Fachriza Dian Adhiatma - 18051204061
