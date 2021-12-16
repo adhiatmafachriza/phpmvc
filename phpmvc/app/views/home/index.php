@@ -1,7 +1,7 @@
 <div class="container my-5 py-5">
     <div class="text-white">
         <div class="row text-center">
-            <h1 class="mb-4">Kelompok 13</h1>
+            <h1 class="mb-4">Kelompok 9</h1>
         </div>
         <div class="row d-flex justify-content-center">
             <div class="col-md-6">
